@@ -1,3 +1,3 @@
-export default function StatusPage() {
+export default function ScalePage() {
   return <div> Scale Page </div>;
 }
